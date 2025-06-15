@@ -6,6 +6,12 @@
 
 ---
 
+## Preview
+
+![Preview](./assets/Obys-gif.gif)
+
+---
+
 ## 🛠️ Tech Stack
 
 * **HTML5** – Structured markup inspired by semantic standards
