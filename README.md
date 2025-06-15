@@ -44,9 +44,6 @@ OBYS/
 └── README.md               # Project documentation
 ```
 
-## 📸 Screenshots
-
-*Include visuals of hero animation, scroll effects, section transitions, and mobile view.*
 
 ## 🚀 Future Improvements
 
