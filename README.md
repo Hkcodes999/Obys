@@ -37,6 +37,14 @@
 * Layering content effectively using z-index, overflow, and positioning
 * Building scalable, modular CSS architecture and animation timelines
 
+---
+
+## Whole project preview
+
+![Preview](./assets/Obys-gif2.gif)
+
+---
+
 ## 📁 Project Structure
 
 ```bash
